@@ -13,7 +13,7 @@ Un seul fichier HTML — aucune installation côté serveur.
 | 🏅 **Classement** | Classement live mis à jour en temps réel, chrono visible |
 | 📊 **Mes Stats** | Historique personnel par séance, graphe de progression |
 
-### Interface Enseignant (code : `1234`)
+### Interface Enseignant (code : `7763`)
 | Onglet | Description |
 |--------|-------------|
 | 🏫 **Classes** | Création/chargement de classes, ajout d'élèves, gestion présences/absences/blessés |
